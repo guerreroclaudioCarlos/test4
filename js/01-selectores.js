@@ -6,6 +6,7 @@ $(document).ready(function () {
 
     //Selector for ID
     var rojo = $("#rojo");
+    
     var amarillo = $("#amarillo");
     var verde = $("#verde");
 
